@@ -7,9 +7,6 @@ function getTimeFromSeconds(seconds) {
 }
 console.log(getTimeFromSeconds(10));
 const clock = document.querySelector('.clock');
-const start = document.querySelector('.start');
-const pause = document.querySelector('.pause');
-const finish = document.querySelector('.zero');
 let seconds = 0;
 let timer;
 function startClock() {
