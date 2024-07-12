@@ -1,1 +1,1 @@
-<h1 text-align =  center>CRONÔMETRO</h1>
+<h1 align="center">CRONÔMETRO</h1>
