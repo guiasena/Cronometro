@@ -7,4 +7,5 @@
   <li>Botão para finalizar/reiniciar.</li>
 </ul>
 <h2>Captura de tela</h2>
-<img align="center" src="/assets/img/1.png">
+<div align-align="center"><img width="60%" margin="auto" display="block" src="/assets/img/1.png"></div>
+
