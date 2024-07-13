@@ -4,5 +4,5 @@
 <ul>
   <li>Botão para começar;</li>
   <li>Botão para pausar;</li>
-  <li>Botão para finalizar/reiniciar;</li>
+  <li>Botão para finalizar/reiniciar.</li>
 </ul>
