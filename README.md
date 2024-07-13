@@ -7,3 +7,4 @@
   <li>Botão para finalizar/reiniciar.</li>
 </ul>
 <h2>Captura de tela</h2>
+<img src="/assets/img/1.png">
