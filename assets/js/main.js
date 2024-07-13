@@ -19,6 +19,7 @@ document.addEventListener('click', function(e){
   const el = e.target;
   if(el.classList.contains('zero')) {
   clearInterval(timer);
+  clock.classList.remove('paused');
   clock.innerHTML = '00:00:00';
   seconds = 0;
   }
