@@ -6,3 +6,4 @@
   <li>Botão para pausar;</li>
   <li>Botão para finalizar/reiniciar.</li>
 </ul>
+<h2>Captura de tela</h2>
